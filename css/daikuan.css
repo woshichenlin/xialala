@@ -1,0 +1,63 @@
+			div{
+				margin: 200px auto;
+				width: 400px;
+				background: black;
+				color: #fff;
+				text-align: center;
+				padding: 25px 20px;
+			}
+			h3{
+				font-size: 30px;
+			}
+			p{
+				height: 30px;
+				line-height: 30px;
+				width: 80%;
+				margin: 0 auto;
+			}
+			p span{
+				float: left;
+			}
+			i{
+				float: right;
+				font-style: normal;
+			}
+			div>div{
+				padding:0  5px;
+				background: #fff;
+				width: 300px;
+				margin: 0 auto;
+				color: #000;
+				line-height: 40px;
+				position: relative;
+			}
+			.box{
+				z-index: 1;
+				width: 270px;
+				text-align: left;
+				padding: 5px 20px;
+				left: 0;
+				position: absolute;
+				display: none;
+				background: #fff;
+				color: #000;
+			}
+			li{
+				height: 20px;
+				line-height: 20px;
+			}
+			.xl{
+				float: right;
+				width: 30px;
+				border-left: 1px solid #ccc;
+				cursor: pointer;
+			}
+			.btn{
+				font-size: 20px;
+				background: #0094EF;
+				color: #fff;
+				margin-top: 20px;
+			}
+			b{
+				font-weight: normal;
+			}
